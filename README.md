@@ -13,6 +13,7 @@ git pull origin main
 내용 다운을 원한다면 다음을 작성해 주세요
 
 `git pull origin main`
+
 내용 업로드를 원한다면 다음을 차례로 작성해 주세요
 
 `git add .`
