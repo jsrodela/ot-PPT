@@ -11,10 +11,14 @@ git clone https://github.com/jsrodela/ot-PPT.git .
 git pull origin main
 ```
 내용 다운을 원한다면 다음을 작성해 주세요
+
 `git pull origin main`
 내용 업로드를 원한다면 다음을 차례로 작성해 주세요
+
 `git add .`
+
 `git commmit --m "수정 내용"`
+
 `git push origin main`
 
 ## 내용들
